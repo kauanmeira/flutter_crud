@@ -5,8 +5,7 @@ const DUMMY_USERS = {
       id: '1',
       name: 'Kauan',
       email: 'kauan@gmail.com',
-      avatarUrl:
-          'https://cdn.pixabay.com/photo/2016/11/18/23/38/child-1837375_1280.png'),
+      avatarUrl: 'https://cdn-icons-png.flaticon.com/512/2504/2504940.png'),
   '2': const User(
       id: '2',
       name: 'Stephanie',
